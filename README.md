@@ -8,6 +8,7 @@
 - 👨‍💻 All of my projects are available on Github [https://github.com/Hackerstefan](https://github.com/Hackerstefan)
 
 <h3 align="left">Connect with me:</h3>
+<p> Discord name is hack.net.steve </p>
 <p align="left">
 </p>
 
