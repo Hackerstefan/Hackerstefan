@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Steve</h1>
-<h3 align="center">A passionate dev from the Earth</h3>
+<h3 align="center">A passionate dev from the Romania</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=network-steve&label=Profile%20views&color=0e75b6&style=flat" alt="network-steve" /> </p>
 
